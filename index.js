@@ -1,6 +1,6 @@
 var Zoho = require('zoho');
 var invoice = new Zoho.Invoice({
-  authtoken: '800e5760c1af595c21bb1913dde55c2b',
+  authtoken: 'c9a5be8192b22672d6e921a9b1e9644f',
   organization_id: '24197050'
 });
 
